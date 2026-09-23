@@ -7,7 +7,7 @@ Low-light image restoration is challenging because insufficient illumination oft
 ## Network Architecture
 
 <p align="center">
-  <img src="fig/net.pdf" width="95%">
+  <img src="fig/net.png" width="95%">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Low-light image restoration is challenging because insufficient illumination oft
 ## Visual Results
 
 <p align="center">
-  <img src="fig/fig1.pdf" width="95%">
+  <img src="fig/fig1.png" width="95%">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Low-light image restoration is challenging because insufficient illumination oft
 </p>
 
 <p align="center">
-  <img src="fig/fig2.pdf" width="95%">
+  <img src="fig/fig2.png" width="95%">
 </p>
 
 <p align="center">
